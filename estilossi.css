@@ -1,0 +1,36 @@
+.contorno-form {
+    margin: 30px 30px 0px 30px;
+    padding: 0px 50px 10px 50px;
+    background-color: #4908fa;
+}
+h3 {
+    text-align: center;
+    margin-top: 30px;
+}
+.title-form {
+    text-align: center;;
+}
+span {
+    text-align: center;
+    
+}
+label {
+    color: white;
+}
+body {
+    background-color:  rgb(12, 182, 182);;
+}
+img {
+    width:15%;
+    height: 10%;
+}
+.centro {
+    text-align: center;
+}
+
+#dvLogado, #dvCadLogin, #dvLogin
+{
+    position: absolute;
+    top: 70px;
+    width: 100%;
+}
